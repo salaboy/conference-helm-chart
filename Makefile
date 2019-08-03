@@ -10,7 +10,7 @@ init:
 
 setup: init
 	helm repo add jenkins-x http://chartmuseum.jenkins-x.io
-	helm repo add conference http://jenkins-x-chartmuseum
+	helm repo add releases ${CHART_REPO}
 
 build: clean setup
 	helm dependency build conference
