@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/salaboy/conference-site.git
   version: 0.0.3
   versionURL: https://github.com/salaboy/conference-site/releases/tag/v0.0.3
+- host: github.com
+  owner: salaboy
+  repo: conference-agenda
+  url: https://github.com/salaboy/conference-agenda.git
+  version: 0.0.15
+  versionURL: https://github.com/salaboy/conference-agenda/releases/tag/v0.0.15
