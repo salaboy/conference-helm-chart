@@ -9,7 +9,8 @@ init:
 	helm init --client-only
 
 setup: init
-	helm repo add jenkins-x http://chartmuseum.jenkins-x.io 	
+	helm repo add jenkins-x http://chartmuseum.jenkins-x.io
+	helm repo add conference http://jenkins-x-chartmuseum
 
 build: clean setup
 	helm dependency build conference
