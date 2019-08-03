@@ -6,3 +6,6 @@ dependencies:
 - name: "conference-sponsors"
   repository: "http://jenkins-x-chartmuseum:8080"
   version: "0.0.11"
+- name: "conference-site"
+	repository: "http://jenkins-x-chartmuseum:8080"
+	version: "0.0.3"  
