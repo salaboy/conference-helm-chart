@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: salaboy
+  repo: conference-site
+  url: https://github.com/salaboy/conference-site.git
+  version: 0.0.3
+  versionURL: https://github.com/salaboy/conference-site/releases/tag/v0.0.3
