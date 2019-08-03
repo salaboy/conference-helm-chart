@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: salaboy
+  repo: conference-site
+  url: https://github.com/salaboy/conference-site
+  version: "12"
+  versionURL: ""
