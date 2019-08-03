@@ -1,0 +1,5 @@
+dependencies:
+- name: "conference-agenda"
+  version: "0.0.4"
+- name: "conference-sponsors"
+  version: "0.0.4"
