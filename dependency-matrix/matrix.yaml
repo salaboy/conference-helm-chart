@@ -15,5 +15,5 @@ dependencies:
   owner: salaboy
   repo: conference-sponsors
   url: https://github.com/salaboy/conference-sponsors.git
-  version: 0.0.14
-  versionURL: https://github.com/salaboy/conference-sponsors/releases/tag/v0.0.14
+  version: 0.0.15
+  versionURL: https://github.com/salaboy/conference-sponsors/releases/tag/v0.0.15
