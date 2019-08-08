@@ -2,6 +2,6 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[salaboy/conference-site](https://github.com/salaboy/conference-site) |  | [0.0.10](https://github.com/salaboy/conference-site/releases/tag/v0.0.10) | 
+[salaboy/conference-site](https://github.com/salaboy/conference-site.git) |  | [0.0.4](https://github.com/salaboy/conference-site/releases/tag/v0.0.4) | 
 [salaboy/conference-agenda](https://github.com/salaboy/conference-agenda.git) |  | [0.0.17](https://github.com/salaboy/conference-agenda/releases/tag/v0.0.17) | 
-[salaboy/conference-sponsors](https://github.com/salaboy/conference-sponsors.git) |  | [0.0.14](https://github.com/salaboy/conference-sponsors/releases/tag/v0.0.14) | 
+[salaboy/conference-sponsors](https://github.com/salaboy/conference-sponsors) |  | [0.0.18](https://github.com/salaboy/conference-sponsors/releases/tag/v0.0.18) | 
