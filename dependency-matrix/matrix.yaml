@@ -8,9 +8,9 @@ dependencies:
 - host: github.com
   owner: salaboy
   repo: conference-agenda
-  url: https://github.com/salaboy/conference-agenda.git
-  version: 0.0.20
-  versionURL: https://github.com/salaboy/conference-agenda/releases/tag/v0.0.20
+  url: https://github.com/salaboy/conference-agenda
+  version: 0.0.21
+  versionURL: https://github.com/salaboy/conference-agenda/releases/tag/v0.0.21
 - host: github.com
   owner: salaboy
   repo: conference-sponsors
