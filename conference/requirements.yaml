@@ -1,10 +1,10 @@
 dependencies:
 - name: conference-agenda
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.22
+  version: 0.0.23
 - name: conference-sponsors
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.18
+  version: 0.0.19
 - name: conference-site
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.11
+  version: 0.0.13

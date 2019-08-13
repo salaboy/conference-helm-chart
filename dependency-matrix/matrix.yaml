@@ -3,17 +3,17 @@ dependencies:
   owner: salaboy
   repo: conference-site
   url: https://github.com/salaboy/conference-site
-  version: 0.0.11
-  versionURL: https://github.com/salaboy/conference-site/releases/tag/v0.0.11
+  version: 0.0.13
+  versionURL: https://github.com/salaboy/conference-site/releases/tag/v0.0.13
 - host: github.com
   owner: salaboy
   repo: conference-agenda
   url: https://github.com/salaboy/conference-agenda
-  version: 0.0.22
-  versionURL: https://github.com/salaboy/conference-agenda/releases/tag/v0.0.22
+  version: 0.0.23
+  versionURL: https://github.com/salaboy/conference-agenda/releases/tag/v0.0.23
 - host: github.com
   owner: salaboy
   repo: conference-sponsors
   url: https://github.com/salaboy/conference-sponsors
-  version: 0.0.18
-  versionURL: https://github.com/salaboy/conference-sponsors/releases/tag/v0.0.18
+  version: 0.0.19
+  versionURL: https://github.com/salaboy/conference-sponsors/releases/tag/v0.0.19
