@@ -17,3 +17,9 @@ dependencies:
   url: https://github.com/salaboy/conference-sponsors
   version: 0.0.21
   versionURL: https://github.com/salaboy/conference-sponsors/releases/tag/v0.0.21
+- host: github.com
+  owner: ajureeruja
+  repo: conference-site
+  url: https://github.com/ajureeruja/conference-site
+  version: 0.0.19
+  versionURL: https://github.com/ajureeruja/conference-site/releases/tag/v0.0.19
